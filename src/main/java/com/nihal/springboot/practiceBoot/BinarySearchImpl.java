@@ -1,5 +1,7 @@
 package com.nihal.springboot.practiceBoot;
 
+import java.util.Arrays;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
@@ -12,9 +14,10 @@ public class BinarySearchImpl {
 	public int binarySearch(int[] nums, int searchNum) {
 //		Implementing Sorting lofic
 		int sortNums[] = sortAlg.sort(nums);
+		int result = Arrays.binarySearch(sortNums,searchNum);  
 		System.out.println(sortAlg);
 //		Search the Array
-		return 3;
+		return result;
 	}
 
 

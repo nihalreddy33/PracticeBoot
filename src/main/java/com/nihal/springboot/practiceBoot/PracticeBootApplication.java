@@ -4,7 +4,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-import ch.qos.logback.classic.Logger;
 
 @SpringBootApplication
 public class PracticeBootApplication {
@@ -19,7 +18,7 @@ public class PracticeBootApplication {
 //		SpringApplication.run(PracticeBootApplication.class, args);
 		ApplicationContext ac = SpringApplication.run(PracticeBootApplication.class, args);
 		 BinarySearchImpl bs = ac.getBean(BinarySearchImpl.class);
-		 int result = bs.binarySearch(new int[] {1,2,3}, 3);
-		 System.out.println(result);
+		 int result = bs.binarySearch(new int[] {3,2,1}, 3);
+		 System.out.println("Element is found at index: "+result);
 	}
 }
