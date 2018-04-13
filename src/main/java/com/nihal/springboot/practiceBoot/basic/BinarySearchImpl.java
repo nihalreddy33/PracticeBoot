@@ -1,4 +1,4 @@
-package com.nihal.springboot.practiceBoot;
+package com.nihal.springboot.practiceBoot.basic;
 
 import java.util.Arrays;
 
