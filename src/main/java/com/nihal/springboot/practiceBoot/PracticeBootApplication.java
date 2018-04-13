@@ -18,6 +18,9 @@ public class PracticeBootApplication {
 //		SpringApplication.run(PracticeBootApplication.class, args);
 		ApplicationContext ac = SpringApplication.run(PracticeBootApplication.class, args);
 		 BinarySearchImpl bs = ac.getBean(BinarySearchImpl.class);
+		 BinarySearchImpl bs1 = ac.getBean(BinarySearchImpl.class);
+		 System.out.println(bs);
+		 System.out.println(bs1);
 		 int result = bs.binarySearch(new int[] {3,2,1}, 3);
 		 System.out.println("Element is found at index: "+result);
 	}
