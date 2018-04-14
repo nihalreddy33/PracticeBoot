@@ -179,3 +179,45 @@
 2018-04-13 08:29:57.545  INFO 72179 --- [main] c.n.s.p.PracticeBootApplication          : Element is found at index: 2
 2018-04-13 08:30:27.647  INFO 72179 --- [Thread-3] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@7a4ccb53: startup date [Fri Apr 13 08:29:54 EDT 2018]; root of context hierarchy
 2018-04-13 08:30:27.649  INFO 72179 --- [Thread-3] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-04-13 14:37:04.660  INFO 9804 --- [main] c.n.s.p.PracticeBootBasicApplication     : Starting PracticeBootBasicApplication on WS3155 with PID 9804 (C:\Users\ngurrala\Downloads\GIT\PracticeBoot\target\classes started by ngurrala in C:\Users\ngurrala\Downloads\GIT\PracticeBoot)
+2018-04-13 14:37:04.669  INFO 9804 --- [main] c.n.s.p.PracticeBootBasicApplication     : No active profile set, falling back to default profiles: default
+2018-04-13 14:37:04.744  INFO 9804 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@23529fee: startup date [Fri Apr 13 14:37:04 EDT 2018]; root of context hierarchy
+2018-04-13 14:37:05.980  INFO 9804 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-04-13 14:37:05.998  INFO 9804 --- [main] c.n.s.p.PracticeBootBasicApplication     : Started PracticeBootBasicApplication in 1.859 seconds (JVM running for 2.46)
+2018-04-13 14:37:06.001  INFO 9804 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.personsDAO@64bce832
+2018-04-13 14:37:06.002  INFO 9804 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.personsDAO@64bce832
+2018-04-13 14:37:06.003  INFO 9804 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@23529fee: startup date [Fri Apr 13 14:37:04 EDT 2018]; root of context hierarchy
+2018-04-13 14:37:06.005  INFO 9804 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-04-13 14:38:10.225  INFO 584 --- [main] c.n.s.p.PracticeBootBasicApplication     : Starting PracticeBootBasicApplication on WS3155 with PID 584 (C:\Users\ngurrala\Downloads\GIT\PracticeBoot\target\classes started by ngurrala in C:\Users\ngurrala\Downloads\GIT\PracticeBoot)
+2018-04-13 14:38:10.230  INFO 584 --- [main] c.n.s.p.PracticeBootBasicApplication     : No active profile set, falling back to default profiles: default
+2018-04-13 14:38:10.295  INFO 584 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@197d671: startup date [Fri Apr 13 14:38:10 EDT 2018]; root of context hierarchy
+2018-04-13 14:38:11.704  INFO 584 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-04-13 14:38:11.722  INFO 584 --- [main] c.n.s.p.PracticeBootBasicApplication     : Started PracticeBootBasicApplication in 2.02 seconds (JVM running for 2.625)
+2018-04-13 14:38:11.725  INFO 584 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.personsDAO@1603cd68
+2018-04-13 14:38:11.726  INFO 584 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.JDBCConnectionBean@9ebe38b
+2018-04-13 14:38:11.726  INFO 584 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.personsDAO@1603cd68
+2018-04-13 14:38:11.726  INFO 584 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.JDBCConnectionBean@9ebe38b
+2018-04-13 14:38:11.727  INFO 584 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@197d671: startup date [Fri Apr 13 14:38:10 EDT 2018]; root of context hierarchy
+2018-04-13 14:38:11.729  INFO 584 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-04-13 14:39:12.384  INFO 2692 --- [main] c.n.s.p.PracticeBootBasicApplication     : Starting PracticeBootBasicApplication on WS3155 with PID 2692 (C:\Users\ngurrala\Downloads\GIT\PracticeBoot\target\classes started by ngurrala in C:\Users\ngurrala\Downloads\GIT\PracticeBoot)
+2018-04-13 14:39:12.389  INFO 2692 --- [main] c.n.s.p.PracticeBootBasicApplication     : No active profile set, falling back to default profiles: default
+2018-04-13 14:39:12.452  INFO 2692 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1df82230: startup date [Fri Apr 13 14:39:12 EDT 2018]; root of context hierarchy
+2018-04-13 14:39:13.629  INFO 2692 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-04-13 14:39:13.647  INFO 2692 --- [main] c.n.s.p.PracticeBootBasicApplication     : Started PracticeBootBasicApplication in 1.767 seconds (JVM running for 2.398)
+2018-04-13 14:39:13.650  INFO 2692 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.personsDAO@13ad5cd3
+2018-04-13 14:39:13.651  INFO 2692 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.JDBCConnectionBean@1c33c17b
+2018-04-13 14:39:13.651  INFO 2692 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.personsDAO@13ad5cd3
+2018-04-13 14:39:13.651  INFO 2692 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.JDBCConnectionBean@1c33c17b
+2018-04-13 14:39:13.653  INFO 2692 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@1df82230: startup date [Fri Apr 13 14:39:12 EDT 2018]; root of context hierarchy
+2018-04-13 14:39:13.655  INFO 2692 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-04-13 14:41:27.414  INFO 19044 --- [main] c.n.s.p.PracticeBootBasicApplication     : Starting PracticeBootBasicApplication on WS3155 with PID 19044 (C:\Users\ngurrala\Downloads\GIT\PracticeBoot\target\classes started by ngurrala in C:\Users\ngurrala\Downloads\GIT\PracticeBoot)
+2018-04-13 14:41:27.419  INFO 19044 --- [main] c.n.s.p.PracticeBootBasicApplication     : No active profile set, falling back to default profiles: default
+2018-04-13 14:41:27.483  INFO 19044 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2fd6b6c7: startup date [Fri Apr 13 14:41:27 EDT 2018]; root of context hierarchy
+2018-04-13 14:41:28.659  INFO 19044 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-04-13 14:41:28.679  INFO 19044 --- [main] c.n.s.p.PracticeBootBasicApplication     : Started PracticeBootBasicApplication in 1.788 seconds (JVM running for 2.404)
+2018-04-13 14:41:28.682  INFO 19044 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.personsDAO@531f4093
+2018-04-13 14:41:28.682  INFO 19044 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.JDBCConnectionBean@5a18cd76
+2018-04-13 14:41:28.696  INFO 19044 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.personsDAO@531f4093
+2018-04-13 14:41:28.696  INFO 19044 --- [main] c.n.s.p.PracticeBootBasicApplication     : com.nihal.springboot.practiceBoot.scope.JDBCConnectionBean@3da30852
+2018-04-13 14:41:28.698  INFO 19044 --- [Thread-2] s.c.a.AnnotationConfigApplicationContext : Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@2fd6b6c7: startup date [Fri Apr 13 14:41:27 EDT 2018]; root of context hierarchy
+2018-04-13 14:41:28.700  INFO 19044 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
